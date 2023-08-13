@@ -21,6 +21,7 @@ const Home = () => {
 	const [disa,setDisabled]=useState("none")
 	const [colores,setColores]=useState([1,2,3])
 
+	  
 	
 
 
